@@ -1,0 +1,5 @@
+{"entries":[
+    {"firstName":"John", "lastName":"Doe", "address":"123 Clark Street", "city":"Brooklyn", "state":"NY", "zipCode":"11111", "phoneNumber":"9172223333"}, 
+    {"firstName":"Anna", "lastName":"Smith", "address":"321 High Street", "city":"Emerald City", "state":"CA", "zipCode":"00000", "phoneNumber":"7189990000"},
+    {"firstName":"Peter", "lastName":"Jones", "address":"555 Allen Street", "city":"Diamond City", "state":"AZ", "zipCode":"22233", "phoneNumber":"2324442222"}
+]}
